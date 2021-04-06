@@ -1,1 +1,4 @@
-alert('testing123');
+function callAlert(){
+  alert('testing123');
+  console.log('===>>>');
+}
